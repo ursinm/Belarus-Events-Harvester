@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+outputs/*.jsonl
+data/geocache.json
+playwright-report/
+tmp/
+
